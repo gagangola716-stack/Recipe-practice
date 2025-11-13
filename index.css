@@ -1,0 +1,87 @@
+
+      @import url('https://fonts.googleapis.com/css2?family=Momo+Signature&family=Young+Serif&display=swap');
+      
+        *{
+          box-sizing: border-box;
+        }
+        :root{
+          --orange-color :orange;
+          --red-color:red;
+          --main-color:pink;
+
+        }
+        body{
+          background-color:bisque;
+        }
+        img{
+          border-radius: 8px;
+          margin: auto;
+          width: 100%;
+          display: block;   
+        }
+        #p0{
+            
+          margin: 61px 369px;
+          border-radius: 19px;
+          padding: 25px 21px ;
+          background-color: white;
+        }
+        h1.p1{
+          font-family: "Trirong", serif;
+          margin-top: 18px;
+          margin-bottom: 0px;
+        }
+        .pt1{
+          margin-top: 3px;
+        }
+        .p2{
+          border: 0px;
+          background-color: #ffecef;
+          padding: 13px;
+          border-radius: 18px;
+        }
+        h3.list1{
+          margin: 13px 8px;
+          color: #a40f0f;
+          font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        ul.l1{
+          margin: 14px 25px;
+          padding: 0px;
+           
+        }
+        h2.list2{
+          color: #7f2727;
+          font-family: "Young Serif", serif;
+          margin: 13px 8px;
+        }
+        ul.l2{
+          padding: 4px 27px;
+          margin: auto;
+        }
+        ul.l3{
+          padding: 4px 1px;
+           
+        }
+        p.l4{
+          margin-left: 9px;
+        }
+        ol.top-li ::marker{
+          color: #7f2727;
+        }
+        .nutrition-table{
+          width: 100%;
+          border-collapse: collapse;
+          font-size: 16px;
+        }
+        .nutrition-table td{
+          padding: 10px 34px;
+          border-bottom: 1px solid #cac4c4;
+        }
+        .value{
+          font-weight: 500;
+          color: #7f2727;
+        }
+        
+
+    
